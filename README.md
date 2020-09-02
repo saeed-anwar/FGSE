@@ -10,7 +10,6 @@ This repository is for comparison of fine-grain classifiers and traditional clas
 4. [Test](#test)
 5. [Results](#results)
 6. [Citation](#citation)
-7. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 To make the best use of the underlying minute and subtle differences, fine-grained classifiers collect information about inter-class variations.  The task is very challenging due to the small differences between the colors, viewpoint, and structure in the same class entities. The classification becomes more difficult due to the similarities between the differences in viewpoint with other classes and differences with its own.  In this work, we investigate the performance of the landmark general CNN classifiers, which presented top-notch results on large scale classification datasets, on the fine-grained datasets, and compare it against state-of-the-art fine-grained classifiers. This paper poses two specific questions: (i) Do the general CNN classifiers achieve comparable results to fine-grained classifiers? (ii) Do general CNN classifiers require any specific information to improve upon the fine-grained ones? We train the general CNN classifiers throughout this work without introducing any aspect specific to fine-grained datasets. We show an extensive evaluation on six datasets to determine whether the fine-grained classifier can elevate the baseline in their experiments.
