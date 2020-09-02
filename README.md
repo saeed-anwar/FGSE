@@ -1,4 +1,4 @@
-# Deep localization of protein structures in fluorescence microscopy images
+# A Systematic Evaluation: Fine-Grained CNN vs. Traditional CNN Classifiers
 This repository is for comparison of fine-grain classifiers and traditional classifiers introduced in the following paper
 
 [Saeed Anwar](https://saeed-anwar.github.io/), Nick Barnes, and Lars Petersson, "[A Systematic Evaluation: Fine-Grained CNN vs. Traditional CNN Classifiers](https://arxiv.org/pdf/2003.11154.pdf)" 
