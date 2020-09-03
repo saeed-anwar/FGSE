@@ -75,12 +75,12 @@ Experimental results on FGVC Aircraft and Cars.
 
 Comparison of the state-of-the-art fine grain classification on Dogs, Flowers, and NABirds dataset.
 <p align="center">
-  <img width="400" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/threeDatasets.png">
+  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/threeDatasets.png">
 </p>
 
 Differences strategies for initialing the network weights i.e. finetuning from ImageNet and random initialization (scratch) for Cars dataset.
 <p align="center">
-  <img width="200" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Ablation.png">
+  <img width="250" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Ablation.png">
 </p>
 
 
