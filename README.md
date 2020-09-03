@@ -16,12 +16,12 @@ To make the best use of the underlying minute and subtle differences, fine-grain
 
 The difference between classes (inter-class variation) is limited forvarious classes
 <p align="center">
-  <img width="700" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Fine1.png">
+  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Fine1.png">
 </p>
 
 The intra-class variation is usually high due to pose, lighting, and color.
 <p align="center">
-  <img width="700" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Fine2.png">
+  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Fine2.png">
 </p>
 
 
@@ -56,7 +56,7 @@ The model is built using
 ### Datasets
 Details of six fine-grained visual categorization datasets to evaluate the proposed method.
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Datasets.png">
+  <img width="300" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Datasets.png">
 </p>
 
 ### Quantitative Results
@@ -64,13 +64,13 @@ Details of six fine-grained visual categorization datasets to evaluate the propo
 Performance comparison with Traditional CNN learning and Fine-grained algorithms. Comparison of the state-of-the-art fine grain classification on
 CUB dataset. Best results are highlighted in bold.
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/CUB.png">
+  <img width="400" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/CUB.png">
 </p>
 
 
 Experimental results on FGVC Aircraft and Cars.
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Cars.png">
+  <img width="400" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Cars.png">
 </p>
 
 Comparison of the state-of-the-art fine grain classification on Dogs, Flowers, and NABirds dataset.
@@ -80,7 +80,7 @@ Comparison of the state-of-the-art fine grain classification on Dogs, Flowers, a
 
 Differences strategies for initialing the network weights i.e. finetuning from ImageNet and random initialization (scratch) for Cars dataset.
 <p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Ablation.png">
+  <img width="400" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Ablation.png">
 </p>
 
 
