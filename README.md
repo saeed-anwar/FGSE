@@ -64,7 +64,7 @@ Details of six fine-grained visual categorization datasets to evaluate the propo
 Performance comparison with Traditional CNN learning and Fine-grained algorithms. Comparison of the state-of-the-art fine grain classification on
 CUB dataset. Best results are highlighted in bold.
 <p align="center">
-  <img width="400" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/CUB.png">
+  <img width="300" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/CUB.png">
 </p>
 
 
@@ -80,7 +80,7 @@ Comparison of the state-of-the-art fine grain classification on Dogs, Flowers, a
 
 Differences strategies for initialing the network weights i.e. finetuning from ImageNet and random initialization (scratch) for Cars dataset.
 <p align="center">
-  <img width="400" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Ablation.png">
+  <img width="200" src="https://github.com/saeed-anwar/FGSE/blob/master/Figs/Ablation.png">
 </p>
 
 
