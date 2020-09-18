@@ -32,16 +32,19 @@ The networks in this evaluation can be broadly categorized into plain networks, 
 ## Requirements
 
 The model is built using
-  1. PyTorch 1.5.1
+  1. PyTorch 1.6.0
   2. Python 3.8
   3. Cuda 10.2
-  4. Tested on Ubuntu 14.04/16.04 environment 
+  4. imageio
+  5. logging
+  6. Tested on Ubuntu 14.04/16.04 environment 
 
 ## Test
 ### Quick start
-1. Download the trained models for our paper and place them in '/TestCode/experiment'.
+1. Download the trained models
 
-    The models can be downloaded from [Google Drive]() or [here](). The total size for all models is 5MB.
+   - [Cars](https://drive.google.com/file/d/1v-N7WFQ15nOKw-boHTw7Od6q0CataWZY/view?usp=sharing) around *404MB*
+
 
 2. Cd to '/TestCode/code', run the following scripts.
 
@@ -49,7 +52,7 @@ The model is built using
 
     ```bash
     #Script
-    CUDA_VISIBLE_DEVICES=0 python main.py 
+    CUDA_VISIBLE_DEVICES=0 python test.py 
     ```
 
 ## Results
