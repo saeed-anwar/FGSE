@@ -41,12 +41,16 @@ The model is built using
 
 ## Test
 ### Quick start
-1. Download the trained models
+1. Download the trained models from
 
-   - [Cars](https://drive.google.com/file/d/1v-N7WFQ15nOKw-boHTw7Od6q0CataWZY/view?usp=sharing) around *404MB*
+   - [Cars](https://drive.google.com/file/d/1v-N7WFQ15nOKw-boHTw7Od6q0CataWZY/view?usp=sharing)  **404MB** in size.
+   - [CUB](https://drive.google.com/file/d/1F36YjAsb7dQ-zIGqcF0MobkzXNY-8FNJ/view?usp=sharing)  **403MB** in size.
+   - [Dogs](https://drive.google.com/file/d/1m4x95JHBx4nHHQjEzjeVBvI7pEsp3eOJ/view?usp=sharing)  **402MB** in size.
+   - [Flowers](https://drive.google.com/file/d/1EvjTo707DNER3sKqOjspnf2ApzHWTptr/view?usp=sharing) **401MB** in size.
+   - [NaBirds](https://drive.google.com/file/d/1LIg_AxTHTmsCLmTW9WnJPp5XN8whSwxx/view?usp=sharing) **414MB** in size.
 
 
-2. Cd to '/TestCode/code', run the following scripts.
+2. cd to '/Cars/r50_cars/', run the following scripts.
 
     **You can use the following script to test the algorithm**
 
