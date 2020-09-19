@@ -51,7 +51,8 @@ The model is built using
    - [NaBirds](https://drive.google.com/file/d/1LIg_AxTHTmsCLmTW9WnJPp5XN8whSwxx/view?usp=sharing) (**414MB** in size.)
 
 
-2. cd to '/Cars/r50_cars/', run the following scripts.
+2. cd to the dataset such Airplane, Cars, CUB, Dogs, Flowers and NaBirds and then cd to the model r50, r152 or d161
+   for example, '/Cars/r50_cars/' or '/Airplane/r152_plane', run the following scripts.
 
     **You can use the following script to test the algorithm**
 
