@@ -98,7 +98,7 @@ For more information, please refer to our [paper](https://arxiv.org/pdf/2003.111
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@article{anwar2020systematic,
+@article{anwar2023systematic,
   title={A Systematic Evaluation: Fine-Grained CNN vs. Traditional CNN Classifiers},
   author={Anwar, Saeed and Barnes, Nick and Petersson, Lars},
   journal={Electronics},
