@@ -101,8 +101,12 @@ If you find the code helpful in your resarch or work, please cite the following 
 @article{anwar2020systematic,
   title={A Systematic Evaluation: Fine-Grained CNN vs. Traditional CNN Classifiers},
   author={Anwar, Saeed and Barnes, Nick and Petersson, Lars},
-  journal={arXiv preprint arXiv:2003.11154},
-  year={2020}
+  journal={Electronics},
+  year={2023}
+  volume = {12},
+  number = {23},
+  article-number = {4877},
+  issn = {2079-9292}
 }
 
 ```
